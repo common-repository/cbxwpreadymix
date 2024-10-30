@@ -1,0 +1,14 @@
+//to compile this less file, open cmd in css folder
+//lessc ./less/cbxwpreadymix.less ./cbxwpreadymix.css   then replace '.cbxwpreadymixbootstrap body' to .cbxwpreadymixbootstrap   and '.cbxwpreadymixbootstrap  html' to .cbxwpreadymixbootstrap
+//lessc -x ./less/cbxwpreadymix.less ./cbxwpreadymix.min.css   then replace '.cbxwpreadymixbootstrap body' to .cbxwpreadymixbootstrap   and '.cbxwpreadymixbootstrap  html' to .cbxwpreadymixbootstrap
+
+
+.cbxwpreadymixbootstrap {
+  @import  '/bootstrap/less/bootstrap.less';
+
+  //include other css files
+  @import  'brand.less';
+  @import  'portfolio.less';
+  @import  'team.less';
+  @import  'testimonial.less';
+}

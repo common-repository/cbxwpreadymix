@@ -1,0 +1,47 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.cbxteam-custom-repeatable li {
+    border: 1px solid #eee;
+    padding: 10px;
+}
+
+.cbxteam-custom-repeatable li .button {
+    margin: 0;
+    display: inline-block;
+    padding: 10px;
+    margin-right: 2px;
+    float: right;
+}
+
+.cbxteam-custom-repeatable li .dashicons {
+    font-size: 25px;
+    margin-top: -8px;
+    margin-left: -4px;
+}
+
+.cbxteam-custom-repeatable li .dashicons-dismiss:hover {
+    color: #e52d27;
+}
+
+.dashed-placeholder {
+    height: 1.5em;
+    line-height: 1.2em;
+    border: 2px dashed #333 !important;
+    display: block;
+}
+
+.ui-state-highlight {
+    border: 2px dashed blue;
+}
+
+.ui-sortable-helper {
+    background: #eee;
+}
+
+.ui-state-highlight {
+    height: 1.5em;
+    line-height: 1.2em;
+}

@@ -1,0 +1,794 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-09 04:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: admin/class-cbxwpreadymix-admin.php:82
+msgid "General Setting"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:99
+msgid "Team module adds a new menu and helps to creates teams"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:107
+msgid "Portfolio module ads a new menu and helps to portfolio items."
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:115
+msgid "Testimonial module adds a new menu and helps to testimonial"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:123
+msgid "Brand module adds a new menu and helps to creates brands or clients"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:131
+msgid ""
+"Enable twitter bootstrap framework shortcode, it's compatible with bs3.x "
+"series and may work on 4.x series too."
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:163
+msgid "CBX WP Readymix Setting"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:163
+msgid "CBX WP Readymix"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:236
+#: admin/class-cbxwpreadymix-admin.php:905
+msgid "Facebook"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:237
+#: admin/class-cbxwpreadymix-admin.php:906
+msgid "Twitter"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:238
+#: admin/class-cbxwpreadymix-admin.php:907
+msgid "Google plus"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:239
+#: admin/class-cbxwpreadymix-admin.php:908
+msgid "Delicious"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:240
+#: admin/class-cbxwpreadymix-admin.php:909
+msgid "Dribbble"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:241
+#: admin/class-cbxwpreadymix-admin.php:910
+msgid "Deviantart"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:242
+#: admin/class-cbxwpreadymix-admin.php:911
+msgid "Digg"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:243
+#: admin/class-cbxwpreadymix-admin.php:912
+msgid "Flickr"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:244
+#: admin/class-cbxwpreadymix-admin.php:913
+msgid "Weibo"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:245
+#: admin/class-cbxwpreadymix-admin.php:914
+msgid "Youtube"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:246
+#: admin/class-cbxwpreadymix-admin.php:915
+msgid "Google"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:247
+#: admin/class-cbxwpreadymix-admin.php:916
+msgid "Pinterest"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:248
+#: admin/class-cbxwpreadymix-admin.php:917
+msgid "Reddit"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:249
+#: admin/class-cbxwpreadymix-admin.php:918
+msgid "Yahoo"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:250
+#: admin/class-cbxwpreadymix-admin.php:919
+msgid "Vimeo"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:251
+#: admin/class-cbxwpreadymix-admin.php:920
+msgid "Stumble Upon"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:252
+#: admin/class-cbxwpreadymix-admin.php:921
+msgid "Linkedin"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:253
+#: admin/class-cbxwpreadymix-admin.php:922
+msgid "Skype"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:254
+#: admin/class-cbxwpreadymix-admin.php:923
+msgid "Tumblr"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:255
+#: admin/class-cbxwpreadymix-admin.php:924
+msgid "Instagram"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:256
+#: admin/class-cbxwpreadymix-admin.php:925
+msgid "Custom"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:274
+msgid "Find on Facebook"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:280
+msgid "Find on Twitter"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:286
+msgid "Find on Google Plus"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:292
+msgid "Find on Delicious"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:298
+msgid "Find on Dribbble"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:304
+msgid "Find on Deviantart"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:310
+msgid "Find on Digg"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:316
+msgid "Find on Flickr"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:322
+msgid "Find on Weibo"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:328
+msgid "Find on Youtube"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:334
+msgid "Find on Google"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:340
+msgid "Find on Pinterest"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:346
+msgid "Find on Reddit"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:352
+msgid "Find on Yahoo"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:358
+msgid "Find on Vimeo"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:364
+msgid "Find on Stumble Upon"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:370
+msgid "Find on Linkedin"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:376
+msgid "Find on Skype"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:382
+msgid "Find on Tumblr"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:388
+msgid "Find on Instagram"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:448
+#: admin/class-cbxwpreadymix-admin.php:568
+#: admin/class-cbxwpreadymix-admin.php:886
+#: admin/class-cbxwpreadymix-admin.php:1107
+msgid "Designation"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:449
+#: admin/class-cbxwpreadymix-admin.php:569
+msgid "Thumb"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:506
+msgid "Category"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:507
+#: admin/class-cbxwpreadymix-admin.php:1015
+msgid "Project Name"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:508
+#: admin/class-cbxwpreadymix-admin.php:567
+#: admin/class-cbxwpreadymix-admin.php:1024
+#: admin/class-cbxwpreadymix-admin.php:1098
+#: admin/class-cbxwpreadymix-admin.php:1102
+msgid "Client Name"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:509
+msgid "Thumbnail"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:566
+#: admin/class-cbxwpreadymix-admin.php:1090
+msgid "Company Name"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:605
+msgid "Team Fields"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:611
+msgid "Portfolio Fields"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:617
+msgid "Testimonial Fields"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:623
+msgid "Brand Fields"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:647
+msgctxt "Post Type General Name"
+msgid "Teams"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:648
+msgctxt "Post Type Singular Name"
+msgid "Team"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:649
+#: includes/widget/cbxwpreadymixteam_widget.php:17
+msgid "CBX Team"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:650
+#: admin/class-cbxwpreadymix-admin.php:715
+#: admin/class-cbxwpreadymix-admin.php:779
+#: admin/class-cbxwpreadymix-admin.php:820
+msgid "Parent Item:"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:651
+msgid "All Team"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:652
+msgid "View Team"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:653
+msgid "Add New Member"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:654
+#: admin/class-cbxwpreadymix-admin.php:719
+#: admin/class-cbxwpreadymix-admin.php:783
+#: admin/class-cbxwpreadymix-admin.php:824
+msgid "Add New"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:655
+msgid "Edit Team"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:656
+msgid "Update Team"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:657
+msgid "Search Team"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:658
+#: admin/class-cbxwpreadymix-admin.php:723
+#: admin/class-cbxwpreadymix-admin.php:787
+#: admin/class-cbxwpreadymix-admin.php:828
+msgid "Not found"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:659
+#: admin/class-cbxwpreadymix-admin.php:724
+#: admin/class-cbxwpreadymix-admin.php:788
+#: admin/class-cbxwpreadymix-admin.php:829
+msgid "Not found in Trash"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:663
+msgid "Team"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:664
+msgid "Team Display"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:712
+msgctxt "Post Type General Name"
+msgid "Portfolio"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:713
+msgctxt "Post Type Singular Name"
+msgid "Portfolio"
+msgstr ""
+
+#. Base ID
+#: admin/class-cbxwpreadymix-admin.php:714
+#: includes/widget/cbxwpreadymixportfolio_widget.php:16
+msgid "CBX Portfolio"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:716
+msgid "All Portfolio"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:717
+msgid "View Portfolio"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:718
+msgid "Add New Portfolio"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:720
+msgid "Edit Portfolio"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:721
+msgid "Update Portfolio"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:722
+msgid "Search Portfolio"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:728
+msgid "Portfolio"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:729
+msgid "Portfolio Display"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:776
+msgctxt "Post Type General Name"
+msgid "Testimonial"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:777
+msgctxt "Post Type Singular Name"
+msgid "Testimonial"
+msgstr ""
+
+#. Base ID
+#: admin/class-cbxwpreadymix-admin.php:778
+#: includes/widget/cbxwpreadymixtestimonial_widget.php:16
+msgid "CBX Testimonial"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:780
+msgid "All Testimonial"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:781
+msgid "View Testimonial"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:782
+msgid "Add New Testimonial"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:784
+msgid "Edit Testimonial"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:785
+msgid "Update Testimonial"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:786
+msgid "Search Testimonial"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:792
+msgid "Testimonial"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:793
+msgid "Testimonial Display"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:817
+msgctxt "Post Type General Name"
+msgid "Brands"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:818
+msgctxt "Post Type Singular Name"
+msgid "Brand"
+msgstr ""
+
+#. Base ID
+#: admin/class-cbxwpreadymix-admin.php:819
+#: includes/widget/cbxwpreadymixbrand_widget.php:16
+msgid "CBX Brand"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:821
+msgid "All Brand"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:822
+msgid "View Brand"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:823
+msgid "Add New Brand"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:825
+msgid "Edit Brand"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:826
+msgid "Update Brand"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:827
+msgid "Search Brand"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:833
+msgid "Brand"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:834
+msgid "Brand Display"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:893
+msgid "Social Media Settings"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:942
+msgid "Add New Social Network"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:943
+msgid "Add Facebook"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:944
+msgid "Add Twitter"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:945
+msgid "Add Google Plus"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:946
+msgid "Add Delicious"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:947
+msgid "Add Dribbble"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:948
+msgid "Add Deviantart"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:949
+msgid "Add Digg"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:950
+msgid "Add Flickr"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:951
+msgid "Add Weibo"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:952
+msgid "Add Youtube"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:953
+msgid "Add Google"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:954
+msgid "Add Pinterest"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:955
+msgid "Add Reddit"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:956
+msgid "Add Yahoo"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:957
+msgid "Add Vimeo"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:958
+msgid "Add Stumble Upon"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:959
+msgid "Add Linkedin"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:960
+msgid "Add Skype"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:961
+msgid "Add Tumblr"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:962
+msgid "Add Instagram"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:963
+msgid "Add Custom"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:1019
+msgid "Portfolio Project Name"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:1028
+msgid "Portfolio Client Name"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:1033
+#: admin/class-cbxwpreadymix-admin.php:1116
+#: admin/class-cbxwpreadymix-admin.php:1170
+msgid "External Url"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:1036
+msgid "Portfolio External Url"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:1093
+msgid "Client Company Name"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:1111
+msgid "Client Designation"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:1119
+msgid "Testimonial External Url"
+msgstr ""
+
+#: admin/class-cbxwpreadymix-admin.php:1167
+msgid "Brand External Url"
+msgstr ""
+
+#: includes/class-content-mapper-view.php:218
+#: includes/widget/cbxwpreadymixportfolio_widget.php:131
+msgid "All"
+msgstr ""
+
+#: includes/class-content-mapper-view.php:246
+msgid "View"
+msgstr ""
+
+#: includes/class-shortcode.php:530
+msgid "Heading"
+msgstr ""
+
+#: includes/class-shortcode.php:531
+msgid "month"
+msgstr ""
+
+#: includes/class-shortcode.php:534
+msgid "Buy Now"
+msgstr ""
+
+#: admin/partials/admin-settings-display.php:20
+msgid "CBX WP Readymix: Setting"
+msgstr ""
+
+#: admin/partials/sidebar.php:23
+msgid "Help & Supports"
+msgstr ""
+
+#: admin/partials/sidebar.php:31
+msgid "Codeboxr Updates"
+msgstr ""
+
+#: admin/partials/sidebar.php:58
+msgid "Other Wordpress Plugins"
+msgstr ""
+
+#: admin/partials/sidebar.php:88
+msgid "Codeboxr on facebook"
+msgstr ""
+
+#: includes/widget/cbxwpreadymixbrand_widget.php:19
+msgid "Show Brand"
+msgstr ""
+
+#: includes/widget/cbxwpreadymixbrand_widget.php:106
+#: includes/widget/cbxwpreadymixportfolio_widget.php:112
+#: includes/widget/cbxwpreadymixteam_widget.php:106
+#: includes/widget/cbxwpreadymixtestimonial_widget.php:105
+msgid "Title:"
+msgstr ""
+
+#: includes/widget/cbxwpreadymixbrand_widget.php:111
+msgid "No. of Brand to show:"
+msgstr ""
+
+#: includes/widget/cbxwpreadymixbrand_widget.php:116
+#: includes/widget/cbxwpreadymixportfolio_widget.php:122
+#: includes/widget/cbxwpreadymixteam_widget.php:116
+msgid "No. of Column to show:"
+msgstr ""
+
+#: includes/widget/cbxwpreadymixportfolio_widget.php:19
+msgid "Show Portofolio"
+msgstr ""
+
+#: includes/widget/cbxwpreadymixportfolio_widget.php:117
+msgid "No. of Portfolio to show:"
+msgstr ""
+
+#: includes/widget/cbxwpreadymixteam_widget.php:20
+msgid "Display team members"
+msgstr ""
+
+#: includes/widget/cbxwpreadymixteam_widget.php:111
+#: includes/widget/cbxwpreadymixtestimonial_widget.php:111
+msgid "No. of Team Member to show:"
+msgstr ""
+
+#: includes/widget/cbxwpreadymixteam_widget.php:122
+msgid "Show Designation:"
+msgstr ""
+
+#: includes/widget/cbxwpreadymixteam_widget.php:126
+#: includes/widget/cbxwpreadymixteam_widget.php:135
+msgid "Show"
+msgstr ""
+
+#: includes/widget/cbxwpreadymixteam_widget.php:127
+#: includes/widget/cbxwpreadymixteam_widget.php:136
+msgid "Hide"
+msgstr ""
+
+#: includes/widget/cbxwpreadymixteam_widget.php:131
+msgid "Show Social Links"
+msgstr ""
+
+#: includes/widget/cbxwpreadymixteam_widget.php:141
+msgid "Sort Order"
+msgstr ""
+
+#: includes/widget/cbxwpreadymixteam_widget.php:145
+msgid "DESC"
+msgstr ""
+
+#: includes/widget/cbxwpreadymixteam_widget.php:146
+msgid "ASC"
+msgstr ""
+
+#: includes/widget/cbxwpreadymixteam_widget.php:151
+msgid "Sort Order By"
+msgstr ""
+
+#: includes/widget/cbxwpreadymixteam_widget.php:155
+msgid "Title"
+msgstr ""
+
+#: includes/widget/cbxwpreadymixteam_widget.php:156
+msgid "ID"
+msgstr ""
+
+#: includes/widget/cbxwpreadymixteam_widget.php:157
+msgid "Post Slug"
+msgstr ""
+
+#: includes/widget/cbxwpreadymixteam_widget.php:158
+msgid "Date"
+msgstr ""
+
+#: includes/widget/cbxwpreadymixteam_widget.php:159
+msgid "Modified Date"
+msgstr ""
+
+#: includes/widget/cbxwpreadymixteam_widget.php:160
+msgid "Random"
+msgstr ""
+
+#: includes/widget/cbxwpreadymixtestimonial_widget.php:19
+msgid "Show Testimonial"
+msgstr ""
+
+#. Name of the plugin
+msgid "CBX WP Ready Mix"
+msgstr ""
+
+#. Description of the plugin
+msgid "Team, Testimonial, Portfolio, Brand, Bootstrap Shortcode and many more"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://codeboxr.com/product/cbx-wordpress-ready-mix/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Codeboxr"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http:/codeboxr.com"
+msgstr ""
